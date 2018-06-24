@@ -1,0 +1,10 @@
+div {
+    margin-bottom: 15px;
+    padding: 10px 50px 10px 50px;
+    background-color: white;
+    text-align: center;
+}
+.right-column {
+    width: 50%;
+    min-height: 100px;
+    float: right;
