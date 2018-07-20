@@ -1,0 +1,57 @@
+.ba-container {
+	background-color: #fddf7f;
+	color: #333333;
+	max-width: 100%;
+	min-width: 1200px;
+	height: 600px;
+	display: flex;
+	
+}
+.plan {
+	background-color: #ffffff;
+	width: 361px;
+    height: 441px;
+	
+}
+
+.plan--active {
+	height: 500px;
+	
+}
+.plan__price {
+	font-family: Miso;
+    color:  #02995b;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+	
+}
+.cup {
+	position: relative;
+	
+}
+.cup__smoke {
+	
+}
+.cup__bean {
+	
+}
+.cup__cup {
+	
+}
+.plan__title {
+	font-family: Miso;
+    color:  #333333;
+    font-size: 56px;
+	
+}
+.plan__description {
+	font-family: Miso;
+    color:  #333333;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+	
+}

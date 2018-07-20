@@ -1,0 +1,76 @@
+body {
+	background: #eeeeee;
+	width: 1500px;
+	height: 2664px;
+	margin: 0 auto;
+}
+
+.block-product {
+	width: 1200px;
+	height: 1195px;
+	background: white;
+	margin: 865px 150px 0 150px;
+}
+
+h2 {
+	color: #303030;
+	font-size: 350%;
+	text-align: center;
+	font-family: "Raleway Black", sans-serif;
+	padding: 100px 0 0 0;	
+}
+
+.decor {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-family: "Raleway Regular", sans-serif;
+	font-size: 125%;
+	padding: 5px 0 0 0;
+}
+.block-top {
+	margin-top: 65px;	
+}
+ 
+
+.photo1 {
+	margin: 0 38px 38px 70px;
+	float: left;
+ }
+
+.photo2 {
+	float: right;
+	margin: 0 70px 38px 0;
+}
+.block-bottom {
+	margin: 0 70px 70px 70px;
+}
+
+.photo3 {
+	float: left;
+}
+
+.photo4 {
+	float: left;
+	margin: 0 0 0 38px;
+}
+.photo5 {
+	float: right;
+}
+ 
+h3 {
+	position: absolute;
+}
+
+.color:hover p{
+	background-color: red;
+	border-radius: 6px;
+}
+
+
+
+
+
+

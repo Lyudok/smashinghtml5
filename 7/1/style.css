@@ -1,0 +1,91 @@
+
+body {
+	background-color: #464f54;
+    width: 1200px;
+    height: 900px;
+	font: normal 14px/1.5 "Proxima Nova", serif;
+	margin: auto 0;
+}
+.title {
+	background-color: #181818;
+	width: 876px;
+	height: 187px;
+	box-sizing: border-box;
+	position: absolute;
+	right: 0;
+	top: 48px;
+}
+
+.title p:first-of-type {
+	text-transform: uppercase;
+	color: #767676;
+	font-size: 15px;
+	font-family: "Proxima Nova", sans-serif;
+	margin: 35px 0 0 64px; 
+}
+.title p:last-of-type {
+	color: #fefefe;
+	font-size: 48px;
+	font-family: Georgia;
+	margin: 0px 0 20px 64px; 
+	font-weight: 100;
+	line-height: 60px; 
+	border-bottom: 1px solid #303030;
+}
+.text-redactor {
+	background-color: #fbc02d;
+	width: 812px;
+	height: 76px;
+	position: absolute;
+	right: 0;
+	top: 187px;
+}
+
+
+
+
+main {
+	background-color: #ffffff;
+	width: 1060px;
+	height: 751px;
+	margin: 149px 130px 0;
+	box-shadow: 0 0 35px 0 rgba(0,0,0,0.22); 
+}
+h1{
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 78px;
+	color: #2a2a2a;
+	line-height: 94px;
+	margin: 0px 0 0 125px; 
+	
+}
+h2 {
+	font-family: Georgia;
+	color: #8f8f8f;
+	font-size: 30px;
+	font-style: italic;
+	line-height: 32px;
+	font-weight: 100;
+	margin: 0 0 60px 125px;
+	
+}
+h3 {
+	text-transform: uppercase;
+	color: #b4b4b4;
+	font-size: 20px;
+	letter-spacing: 0.1em;
+	padding: 202px 0 0 125px; 
+	font-family: "Proxima Nova";
+	
+}
+
+p {
+	font-family: Georgia;
+	color: #000000;
+	font-size: 27px;
+	line-height: 32px;
+	font-weight: 100;
+	text-align: justify;
+	margin: 30px 125px 30px 125px;
+}

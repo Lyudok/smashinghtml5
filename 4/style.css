@@ -1,100 +1,93 @@
-html, body {
-	background-color: #309acd;
-	  
-}
-
 body {
-	width: 800px;
-	height: 500px;
-	margin: 0 auto;
-	border-color: #2782ad;
-	border-style: solid;
-	border-width: 10px;
-	padding: 30px;
-	 
-	
-}
-h1 { 
-	font-size: 18px;
-	color: white;
-	font-family: sans-serif;
-	
-
-	
-}
-ul {
-	border: 2px solid #ffffff;
-	color: white;
-	padding: 0;	
-	font-size: 0;
-	margin: 20px 100px 20px 100px;
-	
-	
-}
-ul li {
-	list-style-type: none;
-	display: inline-block;
-	border: 2px solid #ffffff; 
-	padding: 30px;
-	border-collapse: collapse;
 	margin: 0;
-	box-sizing: border-box;
+	padding: 0;	
+}
+
+h1 {
+	margin: 0;
+}
+
+.wrapper{
+	max-width: 500px;
+	margin: auto;
+}
+
+header {
 	text-align: center;
-	font-size: 15px;
-	font-family: sans-serif;
+	color: #df7e77;
+	background-color: #4a4f55;
+	padding: 5px 0px 5px 0px;
 }
-footer {
+
+header h1{
+	font-size: 30px;
+}
+
+header h2{
+	font-size: 20px;
+}
+
+body{
+	background-color: #3b3e45;
+}
+
+table {
+	width: 50%;
+	background-color: #88849f;
+	margin: 30px auto;
+	border-spacing: 20px;
+	border-collapse: collapse;
+}
+
+tr{
 	color: white;
-	font-size: 13px;
-	font-family: sans-serif;
+	font-size: 25px;
 }
+
+span.textsize {
+	font-size: 15px;
+}
+
+table tr:nth-child(even) {
+	background-color: #7a7593;	
+}
+
+input [type="checkbox"] {
+	transform: scale(1.5);
 	
+}
 
-li:nth-child(1){
+td {
+	padding: 10px;
+}
+
+tr:hover {
+	border-top: 3px white solid;
+	border-bottom: 3px white solid;
+}
+
+input [type="checkbox"]:checked + label {
+	text-decoration: line-through;
+}
+
+footer {
+	text-align: center;
+	color: #df7e77;
+	background-color: #4a4f55;
 	width: 50%;
-	background-color: #2D80AA;
+	margin: 20px auto;
+	padding: 5px 0px 5px 0px;
 }
-li:nth-child(2){
-	width: 25%;
-	background-color: #31cac5;  	
-}
-li:nth-child(3){
-	width: 25%;
-	background-color: #976896;  	
-}
-li:nth-child(4){
-	width: 25%;
-	background-color: #c34546;  	
-}
-li:nth-child(5){
-	width: 25%;
-	background-color: #e36849; 	
-}
-li:nth-child(6){
-	width: 25%;
-	background-color: #ffcc66; 	
-}
-li:nth-child(7){
-	width: 25%;
-	background-color: #9bcd9a; 	
-}
-li:nth-child(8){
-	width: 25%;
-	background-color: #66999a; 	
-}
-li:nth-child(9){
-	width: 50%;
-	background-color: #cd669b; 	
-}
-li:nth-child(10){
-	width: 25%;
-	background-color: #319966; 	
-}
-li:nth-child(11){
-	width: 100%;
-	background-color: #66669a; 	
+
+footer h1{
+	font-size: 20px;
 }
 
 
 
-	
+
+
+
+
+
+

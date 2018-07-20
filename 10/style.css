@@ -1,0 +1,195 @@
+
+
+.box1 {
+	width: 430px;
+	height: 430px;
+	background: #fde3b1;
+	position: absolute;
+	top: 20px;
+	left: 20px;  
+}
+
+.box2 {
+	width: 410px;
+	height: 410px;
+	background: #1d1403;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+
+span {
+	width: 50px;
+	height: 50px;
+	background: #fde3b1;
+	position: absolute;
+}
+
+.square1 {
+	top: 35px;
+	left: 35px;
+}
+.square2 {
+	top: 35px;
+	left: 135px;
+}
+.square3 {
+	top: 35px;
+	left: 235px;
+}
+.square4 {
+	top: 35px;
+	left: 335px;
+}
+.square5 {
+	top: 85px;
+	left: 85px;
+}
+.square6 {
+	top: 85px;
+	left: 185px;
+}
+.square7 {
+	top: 85px;
+	left: 285px;
+}
+.square8 {
+	top: 85px;
+	left: 385px;
+}
+.square9 {
+	top: 135px;
+	left: 35px;
+}
+.square10 {
+	top: 135px;
+	left: 135px;
+}
+.square11 {
+	top: 135px;
+	left: 235px;
+}
+.square12 {
+	top: 135px;
+	left: 335px;
+}
+.square13 {
+	top: 185px;
+	left: 85px;
+}
+.square14 {
+	top: 185px;
+	left: 185px;
+}
+.square15 {
+	top: 185px;
+	left: 285px;
+}
+.square16 {
+	top: 185px;
+	left: 385px;
+}
+.square17 {
+	top: 235px;
+	left: 35px;
+}
+.square18 {
+	top: 235px;
+	left: 135px;
+}
+.square19 {
+	top: 235px;
+	left: 235px;
+}
+.square20 {
+	top: 235px;
+	left: 335px;
+}
+.square21 {
+	top: 285px;
+	left: 85px;
+}
+.square22 {
+	top: 285px;
+	left: 185px;
+}
+.square23 {
+	top: 285px;
+	left: 285px;
+}
+.square24 {
+	top: 285px;
+	left: 385px;
+}
+.square25 {
+	top: 335px;
+	left: 35px;
+}
+.square26 {
+	top: 335px;
+	left: 135px;
+}
+.square27 {
+	top: 335px;
+	left: 235px;
+}
+
+.square28 {
+	top: 335px;
+	left: 335px;
+}
+.square29 {
+	top: 385px;
+	left: 85px;
+}
+.square30 {
+	top: 385px;
+	left: 185px;
+}
+.square31 {
+	top: 385px;
+	left: 285px;
+}
+.square32 {
+	top: 385px;
+	left: 385px;
+}
+
+.circle {
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+	background: red;
+	position: absolute;
+	 
+}
+.shashka1 {
+	top: 18px;
+	left: 46px;	
+}
+.shashka2 {
+	top: 19px;
+	left: 146px;		
+}
+.shashka3 {
+	top: 19px;
+	left: 246px;		
+}
+.shashka4 {
+	top: 19px;
+	left: 346px;		
+}
+.shashka5 {
+	top: 70px;
+	left: 35px;		
+}
+
+
+
+
+
+
+
+
+
+

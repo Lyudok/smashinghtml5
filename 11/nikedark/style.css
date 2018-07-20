@@ -1,0 +1,102 @@
+body {
+	background-image: url("image/bg.png");
+	width: 800px;
+    height: 600px;
+    background-repeat: no-repeat;
+	margin: auto 0;
+}
+.bg {
+	width: 686px;
+    height: 391px;
+    border-radius: 10px;
+    background-color: #111a28;
+    margin: 110px 57px 0 57px;
+    box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.82);
+    
+}
+.product__logo {
+    position: absolute;
+    margin: 25px 0 0 20px;
+}
+.product__image {
+    position: absolute;
+    margin: 125px 0 0 38px;    
+}
+
+.info__group {
+    width: 186px;
+    height: 100%;
+    float: right;
+    margin: 0 57px;
+}
+.product__name {
+    color: white;
+    font-family: "MuseoSansRounded-100";
+    font-size: 24px;
+    margin: 50px 0 5px 0;
+
+}
+.product__description {
+    color: white;
+    font-size: 14px;
+    margin: 0;
+    line-height: 26px;
+    
+}
+
+.raiting {
+    display: flex;
+    margin-bottom: 28px;
+    width: 66px;
+    margin: 25px 0 0 0;
+}    
+
+.raiting__star {
+    margin-right: 1px;
+}
+
+.raiting__star:hover {
+    cursor: pointer;
+    content: url(image/yellow_star.png);
+}  
+.raiting:hover .raiting__star:not(:hover) {
+    content: url(image/white_star.png);
+    
+}
+
+.button-dropdown--size {
+    width: 69px;
+    height: 32px;
+    color: #e1e1e1;
+    border: 1px solid grey;
+    background-color: #111a28;
+    margin: 25px 0 25px 2px;
+    text-align: left;
+    align-items: center;
+    
+    
+}
+
+.add__cart {
+    width: 186px;
+    height: 40px;
+    color: #e1e1e1;
+    background-color: #111a28;
+    font-size: 14px;
+    border: 1px solid #e1e1e1;
+    margin: 0 0 0 2px;
+
+    
+}
+.add__cart:hover {
+    background-color: #4c525a;
+}
+
+
+
+
+
+
+
+
+
